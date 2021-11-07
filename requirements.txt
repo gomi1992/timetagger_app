@@ -1,0 +1,16 @@
+asgineer==0.8.1
+asgiref==3.4.1
+click==8.0.3
+colorama==0.4.4
+h11==0.12.0
+itemdb==1.1.1
+Jinja2==3.0.2
+Markdown==3.3.4
+MarkupSafe==2.0.1
+onetimepass==1.0.1
+pscript==0.7.6
+PyJWT==2.3.0
+pyotp==2.6.0
+six==1.16.0
+timetagger==21.9.3
+uvicorn==0.15.0
